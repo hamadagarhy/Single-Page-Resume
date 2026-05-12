@@ -1,8 +1,37 @@
 {
-    "name" : "Hamada",
-    "email" : "hamada123@gmail.com",
-    "profiles" : [{"Linkedin" : "www.linkedin.com/in/\nhamada-esmael-mohamed-22b221162\n",
-        "Github" : "https://github.com/hamadagarhy"}],
-    "skills" : ["PHP", "Laravel", "MySql"],
-    "work" : "company"
+    "basics": {
+        "name": "Hamada",
+        "email": "hamada123@gmail.com",
+        "summary": "Laravel backend developer"
+    },
+    "profiles": [
+        {
+            "network": "LinkedIn",
+            "url": "https://www.linkedin.com/in/hamada-esmael-mohamed-22b221162"
+        },
+        {
+            "network": "GitHub",
+            "url": "https://github.com/hamadagarhy"
+        }
+    ],
+
+    "skills": [
+        {
+            "name": "PHP",
+            "level": "advanced"
+        },
+        {
+            "name": "Laravel",
+            "level": "intermediate"
+        }
+    ],
+    "work": [
+        {
+            "company": "Company Name",
+            "position": "Backend Developer",
+            "startDate": "2024-01-01",
+            "endDate": null,
+            "summary": "Building APIs using Laravel."
+        }
+    ]
 }

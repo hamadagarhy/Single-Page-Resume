@@ -60,6 +60,10 @@ return [
             'report' => false,
         ],
 
+        'resumes' => [
+            'driver' => 'local',
+            'root' => storage_path('resumes'),
+        ],
     ],
 
     /*
